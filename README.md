@@ -2,6 +2,8 @@
 
 This is a mini-project to display a good setup with Redux Toolkit, and how to make an async call to a API with our own Thunk created with `createAsyncThunk`.
 
+![alt text](./images/mainImage.png)
+
 ## Built With
 
 - [NextJS](https://nextjs.org/)
