@@ -16,3 +16,9 @@ This is a mini-project to display a good setup with Redux Toolkit, and how to ma
 - How to create/use `createAsyncThunk`
 - How to `handle side-effects` (state.status) while fetching data from API
 - How to create/use a `selector`
+
+![Selector](./images/selector.png)
+
+![Slice](./images/slice.png)
+
+![Thunk](./images/thunk.png)
